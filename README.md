@@ -14,6 +14,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante 
-
-
 ![](https://media1.tenor.com/m/BvelvTsIIFEAAAAd/ravil27.gif)
