@@ -2,7 +2,7 @@
 **Boas vindas** ao meu perfil ![image](https://github.com/user-attachments/assets/33e5253a-ac1d-4203-99eb-6107780caf81) ![image](https://github.com/user-attachments/assets/aa053218-2264-450a-be05-faa1ba7b45df)
 
 
-_Meu nome é Sidmar Rodrigues_
+_Meu nome é Sidmar Rodrigues_ :blue_heart
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
