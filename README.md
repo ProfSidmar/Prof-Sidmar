@@ -1,6 +1,6 @@
 # Prof-Sidmar
 **Boas vindas** ao meu perfil 💙💙
-Meu nome é Sidmar Rodrigues
+_Meu nome é Sidmar Rodrigues_
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
