@@ -1,5 +1,6 @@
 # Prof-Sidmar
-**Boas vindas** ao meu perfil 💙💙
+**Boas vindas** ao meu perfil ![image](https://github.com/user-attachments/assets/33e5253a-ac1d-4203-99eb-6107780caf81)
+
 _Meu nome é Sidmar Rodrigues_
 
 Estou estudando na Alura
