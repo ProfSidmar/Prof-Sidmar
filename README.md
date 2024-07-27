@@ -1,5 +1,5 @@
 # Prof-Sidmar
-Boas vindas ao meu perfil 💙💙
+**Boas vindas** ao meu perfil 💙💙
 Meu nome é Sidmar Rodrigues
 
 Estou estudando na Alura
