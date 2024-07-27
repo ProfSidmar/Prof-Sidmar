@@ -5,7 +5,8 @@
 _Meu nome é Sidmar Rodrigues_ :blue_heart
 ![](https://media1.tenor.com/m/YQ4RvEq1GX8AAAAC/up.gif)
 
-Estou estudando na [Alura] (https://www.alura.com.br)
+Estou estudando na [Alura](https://www.alura.com.br)
+
 
 Estou me desenvolvendo na linguagem JavaScript
 
