@@ -14,6 +14,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante 
-![](https://media1.tenor.com/m/YQ4RvEq1GX8AAAAC/up.gif)
-
 ![](https://media1.tenor.com/m/JvQ40Z90vsMAAAAC/i%27m-soaking-wet-right-now-wade-wilson.gif)
