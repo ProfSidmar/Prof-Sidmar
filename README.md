@@ -21,3 +21,7 @@ alurastartestudante@email.com
 
 oi 
 ![](https://media.tenor.com/TM0Xkja0docAAAAj/cr7-si.gif)
+
+terra
+
+![](https://media.tenor.com/It_uScpL9TQAAAAM/yurialberto.gif)
