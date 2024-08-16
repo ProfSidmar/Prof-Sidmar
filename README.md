@@ -19,4 +19,5 @@ alurastartestudante@email.com
 @alurastartestudante 
 ![](https://media.tenor.com/AQQS6bMiRB8AAAAM/flamengo-segue-o-lider.gif)
 
-
+oi 
+![](https://media.tenor.com/TM0Xkja0docAAAAj/cr7-si.gif)
